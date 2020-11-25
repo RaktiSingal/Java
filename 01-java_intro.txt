@@ -1,0 +1,17 @@
+Java is an object oriented programming which means it inyteract with objects
+objects:- those utilities which posses  some properties and some functions. Object is an instance of a class
+Class:- It is an encapsulation of instance variables (data members) and methods.
+Access specifiers: private, public,protected
+Inheritance: It is a mechanism in which a class inherits features of an existing class. Theclass whose feature inherits is superclass and which inherits is derived class.
+Inheritance types in java-
+1. single
+2. multilevel
+3 hierarchial
+Multiple inheritance does not comes in java but concept can be achieved with help of interface.
+Polymorphism: Binding of similar apperance different behaviour.
+Variable:- item whose value keeps on chnaging
+Identifier- user defined name given to any variable,constant,class etc.
+Reserved words-those words which are having special meaning in language and cannot be redefined . Java has 50 reserved words
+Operators: 
+Arthematic :-> +,-,*,\,%
+Relational operators:-> >,<,>=,<=,==,!=
